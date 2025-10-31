@@ -63,7 +63,4 @@ Key Methods:
 
 ---
 
-## 🧭 Program Flow
-
-Upon running, the program displays a **Main Menu**:
 
